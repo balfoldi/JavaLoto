@@ -1,0 +1,1 @@
+Loto application with JAVA and HTML
